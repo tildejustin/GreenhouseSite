@@ -1,0 +1,39 @@
+* {
+	font-family: 'Questrial', sans-serif;
+	background-color: LightBlue;
+	cursor: url(../img/cactus.cur), auto;
+}
+
+body {
+	min-width: 549px;
+}
+
+nav {
+	text-align: center;
+	border-bottom: 2px solid grey;
+	padding: 15px;
+}
+
+.logotxt {
+	font-size: 24px;
+	margin: 0px;
+}
+
+a:link {
+	color: #3D9970;
+}
+
+a:hover {
+	color: #e3a18f;
+}
+
+a:visited {
+	color: #a8195f;
+}
+p, td, th, li, h2, h1 {
+	cursor: url(../img/txtselect.cur), auto;
+}
+
+a {
+	cursor: url(../img/cactus.cur), auto;
+}

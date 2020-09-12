@@ -1,0 +1,16 @@
+.cen {
+	text-align: center;
+}
+
+table {
+	width: 75%;
+	margin: auto;
+	padding: 5px;
+}
+
+th, td, tr {
+	width: 20%;
+	padding: 3px;
+	border: 2px solid grey;
+	border-radius: 5px;
+}

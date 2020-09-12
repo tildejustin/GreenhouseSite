@@ -1,0 +1,130 @@
+.inherit {
+	background-color: inherit;
+}
+
+.front {
+	display: inline-block;
+	margin: 10px;
+	padding: 20px;
+}
+
+.frontimg {
+	width: 65%;
+	display: inline-block;
+	float: left;
+}
+
+.imgfront {
+	display: block;
+	margin: auto;
+	width: 92%;
+	border-radius: 15px;
+	max-width: 1250px;
+}
+
+.fronttxt {
+	width: 33%;
+	display: inline-block;
+	font-size: 18px;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+.ul {
+	display: block;
+	margin: auto;
+}
+
+.pics {
+	display: flex;
+}
+
+.pics1 {
+	width: 30%;
+	display: block;
+	margin: auto;
+	border-radius: 5px;
+}
+
+.bodytxt {
+	width: 65%;
+	text-align: center;
+	font-size: 17px;
+	padding: 10px;
+}
+
+.vid {
+	width: 98%;
+	padding: 10px;
+}
+
+.testimonial {
+	float: left;
+	width:44%;
+	margin: 10px;
+	text-align: center;
+	border: 2px solid grey;
+	margin-top: 20px;
+	border-radius: 5px;
+	margin-left: 21px;
+	font-size: 1em;
+}
+
+.vid1 {
+	padding: 20px;
+	border-radius: 10px;
+}
+
+video {
+	display: block;
+	width: 49%;
+	margin: auto;
+}
+
+.bottom2 {
+	padding: 10px;
+	display: block;
+	margin: auto;
+}
+
+.gifdiv {
+	float: left;
+	display: inline-block;
+	width: 50%;
+}
+
+.gif {
+	width: 90%;
+}
+
+.comment {
+	width: 50%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+}
+
+.textarea {
+	display: block;
+	margin: auto;
+	width: 95%;
+}
+
+.button {
+	border: 2px solid grey;
+	border-radius: 3px;
+}
+
+.footer {
+	display: block;
+	width: 100%;
+}
+
+/*
+The code vault
+border: 5px solid #001f3f;
+
+	width: 20%
+*/
