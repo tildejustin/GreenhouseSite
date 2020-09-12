@@ -30,7 +30,7 @@ a:hover {
 a:visited {
 	color: #a8195f;
 }
-p, td, th, li, h2, h1 {
+p, td, th, li, h2, h1, blockquote {
 	cursor: url(../img/txtselect.cur), auto;
 }
 

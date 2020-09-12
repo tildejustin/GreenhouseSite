@@ -30,6 +30,7 @@
 
 ul {
 	list-style-type: circle;
+	font-size: 18px;
 }
 
 .ul {
@@ -49,10 +50,12 @@ ul {
 }
 
 .bodytxt {
-	width: 65%;
+	width: 55%;
 	text-align: center;
-	font-size: 17px;
+	font-size: 18px;
 	padding: 10px;
+	display: block;
+	margin: auto;
 }
 
 .vid {
@@ -83,43 +86,39 @@ video {
 	margin: auto;
 }
 
-.bottom2 {
-	padding: 10px;
+.gifdiv {
+	display: inline-block;
 	display: block;
 	margin: auto;
+	width: 80%;
 }
 
-.gifdiv {
-	float: left;
-	display: inline-block;
-	width: 50%;
-}
-
-.gif {
+.gif1 {
+	height: 25%;
+	display: block;
+	margin: auto;
 	width: 90%;
 }
 
+
+.bottom {
+	display: block;
+	margin: auto;
+}
+
 .comment {
-	width: 50%;
-	float: left;
-	display: inline-block;
 	text-align: center;
+	width: 50%;
+	display: inline;
 }
 
 .textarea {
-	display: block;
-	margin: auto;
-	width: 95%;
+	width: 40%;
 }
 
 .button {
 	border: 2px solid grey;
 	border-radius: 3px;
-}
-
-.footer {
-	display: block;
-	width: 100%;
 }
 
 /*
